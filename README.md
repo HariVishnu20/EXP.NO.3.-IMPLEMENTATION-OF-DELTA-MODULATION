@@ -52,11 +52,11 @@ Note the effect of changes in input frequency and amplitude on the output wavefo
 ![image](https://github.com/user-attachments/assets/76e7acba-b457-42e2-ba97-36f08b5761aa)
 
 ## TABLE
-![table](https://github.com/user-attachments/assets/0493dad5-d423-43c0-aea9-916a1264fbfd)
+![delta 1](https://github.com/user-attachments/assets/d79bc213-b475-4f26-b00a-7437465c6409)
 
 
 ## OUTPUT GRAPHS
-![output](https://github.com/user-attachments/assets/5ea74036-02e4-48b3-bc6a-b5f8aa380c04)
+![delta 2](https://github.com/user-attachments/assets/659aefa9-8487-4128-96cd-59268d409ef1)
 
 
 ## RESULT 
